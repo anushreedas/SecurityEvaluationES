@@ -1,0 +1,3 @@
+include ':clipsjnilib'
+include ':app'
+rootProject.name = "Security Evaluation ES"
