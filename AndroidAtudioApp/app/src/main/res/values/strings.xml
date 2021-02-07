@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Security Evaluation ES</string>
+    <string name="recommendation">Recommended actions to improve security:</string>
+</resources>
